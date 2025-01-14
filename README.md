@@ -1,5 +1,4 @@
 # Netflix Data Visualization
-*BAN6420 Module 4 Assignment*
 
 ## Overview
 This project provides a comprehensive analysis of a dataset containing information on Netflix shows and movies. The analysis includes data cleaning, exploration, visualization, and integration of R for generating a specific visualization.
